@@ -1,0 +1,43 @@
+@font-face {
+    font-family: 'Cario';
+    src: url(https://fonts.gstatic.com/s/cairo/v17/SLXVc1nY6HkvangtZmpcWmhzfH5lWWgcQyyS4J0.woff2) format('woff2');
+
+}
+html, body, h1 {
+    padding: 0px;
+    border: 0px;
+    margin: 0px;
+    font-size: 100%;
+
+}
+h1{
+    font-size: 60px;
+    font-family: 'Cario';
+    text-align: center
+}
+.maincontent {
+    padding: 50px 50px 50px 50px;
+    font-family: 'Cario';
+    border: 2px solid black;
+    margin: 75px;
+}
+
+.FirstName {
+    font-size: 35px;
+    font-family: 'Cario';
+    text-align: center;
+}
+.LastName{
+    font-size: 35px;
+    font-family: 'Cario';
+    text-align: center;
+}
+.email{
+    font-size: 35px;
+    font-family: 'Cario';
+    text-align: center;
+}
+.submit{
+    text-align: center;
+    font-size: 25px;
+}
